@@ -1,4 +1,4 @@
  
 
 	YOU CAN FIND MAIN CODE IN: 
-        CORE --> SRC --> FREERTOS.C
+        _CODE_ --> CORE --> SRC --> FREERTOS.C
