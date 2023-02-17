@@ -1,0 +1,20 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="The application entry point." alt="" coords="5,351,56,376"/>
+<area shape="rect" id="node2" href="$adc_8c.html#acccd58aa70215a6b184ad242312ffd0c" title=" " alt="" coords="133,424,238,449"/>
+<area shape="rect" id="node4" href="$dma_8c.html#a323249dac769f9855c10b4ec9446b707" title="Enable DMA controller clock." alt="" coords="135,227,235,252"/>
+<area shape="rect" id="node5" href="$freertos_8c.html#abade755e13d07c10889ae83143656158" title="FreeRTOS initialization." alt="" coords="115,177,256,203"/>
+<area shape="rect" id="node14" href="$gpio_8c.html#ac724e431d2af879252de35615be2bdea" title="Configure pins." alt="" coords="134,325,237,351"/>
+<area shape="rect" id="node15" href="$tim_8c.html#a0b1802cec6c627135b6c10a1ab67f7f3" title=" " alt="" coords="132,523,239,548"/>
+<area shape="rect" id="node16" href="$tim_8c.html#ad1f9d42690163f73f73e5b820c81ca14" title=" " alt="" coords="136,276,235,301"/>
+<area shape="rect" id="node17" href="$usart_8c.html#a57d1167735baafab8e3288526c424929" title=" " alt="" coords="104,375,267,400"/>
+<area shape="rect" id="node18" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="114,473,257,499"/>
+<area shape="rect" id="node3" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="351,424,453,449"/>
+<area shape="rect" id="node6" href="$freertos_8c.html#adfb05d5ca3b1cf6296e9bab2f3516171" title="Function implementing the ADC_CONFIG_TASK thread." alt="" coords="315,55,489,80"/>
+<area shape="rect" id="node7" href="$freertos_8c.html#ad9bdad490541b2a2ad15e14702463230" title="Function implementing the ADC_TAKE_TASK thread." alt="" coords="322,104,482,129"/>
+<area shape="rect" id="node8" href="$freertos_8c.html#a436e22ba921bdceabc8324907f692d18" title="Function implementing the IDLE_DEBUG_TASK thread." alt="" coords="315,153,489,179"/>
+<area shape="rect" id="node9" href="$freertos_8c.html#a8ac8511af93cd072a7ab57bd736a0b35" title="Function implementing the INT_TIMER_TASK thread." alt="" coords="323,203,481,228"/>
+<area shape="rect" id="node10" href="$freertos_8c.html#aec2d5a7a328f116f8562e031f76b2d92" title="Function implementing the INT_UART_TASK thread." alt="" coords="326,252,478,277"/>
+<area shape="rect" id="node11" href="$freertos_8c.html#a3dd20986afed1070c9cd0edd7856e10c" title=" " alt="" coords="334,301,470,327"/>
+<area shape="rect" id="node12" href="$freertos_8c.html#a41575323b6406104bade90bebe7aa46c" title="Function implementing the UART_RX_TASK thread." alt="" coords="327,351,477,376"/>
+<area shape="rect" id="node13" href="$freertos_8c.html#a80fc2f5fefeb8a3a77be46830cce78af" title="Function implementing the UART_TX_TASK thread." alt="" coords="329,5,475,31"/>
+</map>

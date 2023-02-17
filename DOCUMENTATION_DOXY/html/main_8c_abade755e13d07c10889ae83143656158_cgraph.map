@@ -1,0 +1,11 @@
+<map id="MX_FREERTOS_Init" name="MX_FREERTOS_Init">
+<area shape="rect" id="node1" title="FreeRTOS initialization." alt="" coords="5,179,147,204"/>
+<area shape="rect" id="node2" href="$freertos_8c.html#adfb05d5ca3b1cf6296e9bab2f3516171" title="Function implementing the ADC_CONFIG_TASK thread." alt="" coords="195,5,369,31"/>
+<area shape="rect" id="node3" href="$freertos_8c.html#ad9bdad490541b2a2ad15e14702463230" title="Function implementing the ADC_TAKE_TASK thread." alt="" coords="202,55,362,80"/>
+<area shape="rect" id="node4" href="$freertos_8c.html#a436e22ba921bdceabc8324907f692d18" title="Function implementing the IDLE_DEBUG_TASK thread." alt="" coords="195,104,369,129"/>
+<area shape="rect" id="node5" href="$freertos_8c.html#a8ac8511af93cd072a7ab57bd736a0b35" title="Function implementing the INT_TIMER_TASK thread." alt="" coords="203,153,361,179"/>
+<area shape="rect" id="node6" href="$freertos_8c.html#aec2d5a7a328f116f8562e031f76b2d92" title="Function implementing the INT_UART_TASK thread." alt="" coords="206,203,358,228"/>
+<area shape="rect" id="node7" href="$freertos_8c.html#a3dd20986afed1070c9cd0edd7856e10c" title=" " alt="" coords="214,252,350,277"/>
+<area shape="rect" id="node8" href="$freertos_8c.html#a41575323b6406104bade90bebe7aa46c" title="Function implementing the UART_RX_TASK thread." alt="" coords="207,301,357,327"/>
+<area shape="rect" id="node9" href="$freertos_8c.html#a80fc2f5fefeb8a3a77be46830cce78af" title="Function implementing the UART_TX_TASK thread." alt="" coords="209,351,355,376"/>
+</map>

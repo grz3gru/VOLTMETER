@@ -1,0 +1,15 @@
+../Core/Src/freertos.c:126:13:vApplicationIdleHook	4	static
+../Core/Src/freertos.c:141:13:vApplicationTickHook	4	static
+../Core/Src/freertos.c:155:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:168:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Src/freertos.c:182:6:MX_FREERTOS_Init	304	static
+../Core/Src/freertos.c:282:6:IDLE_DEBUG_TASK_INIT	24	static
+../Core/Src/freertos.c:319:6:ADC_TAKE_TASK_INIT	32	static
+../Core/Src/freertos.c:371:6:UART_TX_TASK_INIT	40	static
+../Core/Src/freertos.c:566:6:UART_RX_TASK_INIT	24	static
+../Core/Src/freertos.c:677:6:ADC_CONFIG_TASK_INIT	24	static
+../Core/Src/freertos.c:749:6:INT_TIMER_TASK_INIT	16	static
+../Core/Src/freertos.c:790:6:INT_UART_TASK_INIT	24	static
+../Core/Src/freertos.c:827:6:TIMER_CALLBACK	16	static
+../Core/Src/freertos.c:847:6:HAL_TIM_PeriodicElapsedCallback	24	static,ignoring_inline_asm
+../Core/Src/freertos.c:860:6:HAL_UARTEx_RxEventCallback	24	static,ignoring_inline_asm
